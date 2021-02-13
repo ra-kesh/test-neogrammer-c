@@ -1,5 +1,5 @@
 import Layout from '../../components/Layout';
-import Admin from '../../components/auth/admin';
+import Admin from '../../components/auth/Admin';
 import Link from 'next/link';
 import { isAuth } from '../../actions/auth';
 
